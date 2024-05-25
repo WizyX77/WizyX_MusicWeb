@@ -57,7 +57,7 @@ export default function Policy() {
             >
               <a
                 className="group w-64 sm:w-auto bg-darkBg text-white hover:dark:text-black px-7 py-3 cursor-pointer flex items-center gap-2 rounded-full outline-none focus:scale-105 hover:scale-105 hover:bg-darkBeige active:scale-105 transition"
-                href="#"
+                href="https://github.com/WizyX77/WizyX_MusicWeb/wiki/%F0%9F%94%92-Gizlilik-Politikas%C4%B1"
                 target='_blank'
               >
                 Gizlilik Politikası {' '}
@@ -66,7 +66,7 @@ export default function Policy() {
 
               <a
                 className="group w-64 sm:w-auto bg-white px-7 py-3 flex items-center gap-2 rounded-full outline-none focus:scale-105 hover:scale-105 active:scale-105 transition cursor-pointer borderBlack dark:bg-white/10"
-                href="#"
+                href="https://github.com/WizyX77/WizyX_MusicWeb/wiki/%F0%9F%92%BB-Hizmet-Ko%C5%9Fullar%C4%B1"
                 target='_blank'
               >
                 Hizmet Koşulları {' '}
