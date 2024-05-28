@@ -12,7 +12,7 @@ import Footer from '@/components/footer'
 export const metadata: Metadata = {
   title: 'Wizyx Music 🌙',
   description:
-    '🌙 7/24 Kesintisiz, Tamamen Türkçe Arayüzü, Kolay Erişebilirliği, Çeşitli Müzik Modları ve Ses Kalitesiyle Sunucunuzun En Kaliteli Müzik Botu!\n\n[Sunucuna Ekle](https://discord.com/oauth2/authorize?client_id=1243599943352975450) - [Destek Sunucusu](https://discord.gg/Dv5Mj9UPKv)',
+    '🌙 7/24 Kesintisiz, Tamamen Türkçe Arayüzü, Kolay Erişebilirliği, Çeşitli Müzik Modları ve Ses Kalitesiyle Sunucunuzun En Kaliteli Müzik Botu!',
     icons: 'https://cdn.discordapp.com/attachments/1241419174908137572/1243941927380979774/WizyxMusicPp.png?ex=66534eb2&is=6651fd32&hm=07756ef1823db66bf275d0b50b0ae8f1919cea7ce648282f4f5891e79a243f8d&'
 }
 
