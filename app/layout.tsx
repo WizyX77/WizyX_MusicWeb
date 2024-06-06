@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   title: 'Wizyx Music 🌙',
   description:
     '🌙 7/24 Kesintisiz, Tamamen Türkçe Arayüzü, Kolay Erişebilirliği, Çeşitli Müzik Modları ve Ses Kalitesiyle Sunucunuzun En Kaliteli Müzik Botu!',
-    icons: 'https://cdn.discordapp.com/attachments/1241419174908137572/1243941927380979774/WizyxMusicPp.png?ex=66534eb2&is=6651fd32&hm=07756ef1823db66bf275d0b50b0ae8f1919cea7ce648282f4f5891e79a243f8d&'
+    icons: 'https://cdn.discordapp.com/attachments/1241419174908137572/1243941927380979774/WizyxMusicPp.png?ex=666277f2&is=66612672&hm=0f39387f2f15aba041a39b1b6885831f183e8fc2229a9c55e1960a56558ab761&'
 }
 
 const fontMontserrat = FontMontserrat({
